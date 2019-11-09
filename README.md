@@ -83,3 +83,11 @@
 - [AOS](https://michalsnik.github.io/aos/): JavaScript scroll animation library
   - https://codepen.io/michalsnik/pen/WxNdvq
   - https://codepen.io/michalsnik/pen/EyxoNm?editors=1100
+
+### Colors
+
+- Color Palette Generators
+  - [coolors](https://coolors.co/)
+  - [Color Hunt](https://colorhunt.co/)
+  - [Colormind](http://colormind.io/)
+- [Hex to RGB converter](https://www.rgbtohex.net/hextorgb/)
